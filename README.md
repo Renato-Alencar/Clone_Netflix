@@ -1,4 +1,4 @@
-# **Recriação da página principal do Netflix**
+# **Recriação da Interface do Netflix**
 
 ## Projeto do Bootcamp JavaScript Game Developer na plataforma [Digital Innovation One](https://digitalinnovation.one/sign-up)
 
