@@ -23,7 +23,7 @@ Recriar a interface do principal site de streaming mundial utilizando as linguag
 - Navegador
 
 ### **Resultado Final**
-![Imagem do resultado final](image/resultado-final.png)
+![Imagem do resultado final](image/resultado-final.PNG)
 
 
 
