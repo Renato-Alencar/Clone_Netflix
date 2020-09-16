@@ -1,6 +1,6 @@
 # **Recriação da página principal do Netflix**
 
-## Projeto do Bootcamp JavaScript Game Developer na plataforma Digital Innovation One
+## Projeto do Bootcamp JavaScript Game Developer na plataforma [Digital Innovation One](https://digitalinnovation.one/sign-up)
 
 ### Ministrado por: [Felipe Aguiar](https://github.com/felipeAguiarCode)  
 
