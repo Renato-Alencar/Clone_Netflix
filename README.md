@@ -15,7 +15,7 @@ Recriar a interface do principal site de streaming mundial utilizando as linguag
 - Técnicas de CSS3 com containers e variáveis.
 - Posicionamento dos elementos com Flexbox.  
 - Utilização de plugins Jquery a favor da sua aplicação.
-- Criação de página responsiva com Mediaquery.
+- Criação de página responsiva com Media Queries.
 
 ### **Tecnologias Utilizadas**
 - Visual Studio Code
